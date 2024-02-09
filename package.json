@@ -1,0 +1,17 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/chelninecz/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/chelninecz/hexlet-js/issues",
+    "email": "chelninecz@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chelninecz",
+  "license": "ISC"
+}
