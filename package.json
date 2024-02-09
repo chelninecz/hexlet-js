@@ -1,7 +1,7 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "homepage": "https://github.com/chelninecz/hexlet-js#readme",
   "bugs": {
@@ -13,5 +13,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "chelninecz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
