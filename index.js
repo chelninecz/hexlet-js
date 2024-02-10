@@ -1,4 +1,4 @@
-import last from "./src/index.js";
+import last from './src/index.js';
 
-console.log("Hello, Hexlet!");
-console.log(last(["one", "two"]));
+console.log('Hello, Hexlet!');
+console.log(last(['one', 'two']));
